@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>Editado desde vsCode!</h1>
+        <h2>agregado desde netbeans</h2>
     </body>
 </html>
